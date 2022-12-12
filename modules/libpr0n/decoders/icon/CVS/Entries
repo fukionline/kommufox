@@ -1,0 +1,15 @@
+/.cvsignore/1.2/Thu Feb  5 16:19:02 2004//TFIREFOX_1_5_0_12_RELEASE
+/Makefile.in/1.17/Wed Apr  6 04:32:20 2005//TFIREFOX_1_5_0_12_RELEASE
+/imgicon.pkg/1.2/Wed Jan  7 01:22:04 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIIconURI.idl/1.7/Wed Jan 19 11:27:20 2005//TFIREFOX_1_5_0_12_RELEASE
+/nsIconDecoder.cpp/1.13/Mon Nov 15 04:16:06 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIconDecoder.h/1.4/Sun Apr 18 22:00:41 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIconModule.cpp/1.7/Wed Jan 19 11:27:20 2005//TFIREFOX_1_5_0_12_RELEASE
+/nsIconProtocolHandler.cpp/1.15.16.1/Wed Feb 15 09:16:51 2006//TFIREFOX_1_5_0_12_RELEASE
+/nsIconProtocolHandler.h/1.5/Sun Apr 18 22:00:41 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIconURI.cpp/1.19.16.2/Mon Apr 30 23:25:09 2007//TFIREFOX_1_5_0_12_RELEASE
+/nsIconURI.h/1.9/Wed Jan 19 13:59:36 2005//TFIREFOX_1_5_0_12_RELEASE
+D/gtk////
+D/mac////
+D/os2////
+D/win////

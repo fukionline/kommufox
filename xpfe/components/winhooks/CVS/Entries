@@ -1,0 +1,12 @@
+/.cvsignore/1.1/Tue Dec 18 09:14:08 2001//TFIREFOX_1_5_0_12_RELEASE
+/Makefile.in/1.14/Tue Apr  5 14:50:16 2005//TFIREFOX_1_5_0_12_RELEASE
+/dummyWindow.xul/1.2/Wed Jul 24 06:43:07 2002//TFIREFOX_1_5_0_12_RELEASE
+/jar.mn/1.4/Tue Oct  8 06:20:42 2002//TFIREFOX_1_5_0_12_RELEASE
+/nsIWindowsHooks.idl/1.19/Thu Jun  2 03:48:34 2005//TFIREFOX_1_5_0_12_RELEASE
+/nsSetDefaultBrowser.js/1.5/Fri Oct 29 19:28:34 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsSetDefaultMail.js/1.5/Fri Oct 29 19:28:34 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsUnsetDefaultMail.js/1.5/Fri Oct 29 19:28:34 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsWindowsHooks.cpp/1.62.10.1/Sun Jan  1 15:46:28 2006//TFIREFOX_1_5_0_12_RELEASE
+/nsWindowsHooks.h/1.14/Wed Jun  1 23:59:21 2005//TFIREFOX_1_5_0_12_RELEASE
+/nsWindowsHooksUtil.cpp/1.37/Mon Jan 17 18:50:17 2005//TFIREFOX_1_5_0_12_RELEASE
+D/locale////

@@ -1,0 +1,23 @@
+/.cvsignore/1.1/Thu Jul 20 01:08:42 2000//TFIREFOX_1_5_0_12_RELEASE
+/GenerateManifest.pm/1.3/Thu Apr 25 21:25:49 2002//TFIREFOX_1_5_0_12_RELEASE
+/Makefile.in/1.39/Sun Apr 18 22:00:50 2004//TFIREFOX_1_5_0_12_RELEASE
+/basebrowser-installer-win.pkg/1.29.12.2/Tue Dec 19 22:07:37 2006//TFIREFOX_1_5_0_12_RELEASE
+/basebrowser-mac-macho/1.44.4.2.2.2/Tue Dec 19 22:07:37 2006//TFIREFOX_1_5_0_12_RELEASE
+/basebrowser-qnx/1.12.12.1/Tue Dec 19 22:07:37 2006//TFIREFOX_1_5_0_12_RELEASE
+/basebrowser-unix/1.81.12.1/Tue Dec 19 22:07:37 2006//TFIREFOX_1_5_0_12_RELEASE
+/basebrowser-win/1.96.4.3.4.1/Tue Dec 19 22:07:37 2006//TFIREFOX_1_5_0_12_RELEASE
+/basebrowser-win-supp/1.7/Fri Jan 16 19:22:42 2004//TFIREFOX_1_5_0_12_RELEASE
+/embed-jar.mn/1.36.12.1/Wed Feb 22 03:41:45 2006//TFIREFOX_1_5_0_12_RELEASE
+/gen_mn.pl/1.10/Tue Oct 22 04:25:08 2002//TFIREFOX_1_5_0_12_RELEASE
+/gre-installer-win.pkg/1.5/Fri Jan 16 19:22:42 2004//TFIREFOX_1_5_0_12_RELEASE
+/gre-win/1.6/Tue Jun  3 23:15:57 2003//TFIREFOX_1_5_0_12_RELEASE
+/gre-win-supp/1.3/Sat Sep 13 17:55:10 2003//TFIREFOX_1_5_0_12_RELEASE
+/gre.pl/1.2/Thu Sep 12 19:07:34 2002//TFIREFOX_1_5_0_12_RELEASE
+/installed-chrome.txt/1.14/Thu Mar  4 00:39:06 2004//TFIREFOX_1_5_0_12_RELEASE
+/minimo-qnx/1.8.12.1/Tue Dec 19 22:07:37 2006//TFIREFOX_1_5_0_12_RELEASE
+/minimo-unix/1.14.12.1/Tue Dec 19 22:07:37 2006//TFIREFOX_1_5_0_12_RELEASE
+/mk_sdk_hdr_lst.pl/1.4/Fri Oct 19 01:45:12 2001//TFIREFOX_1_5_0_12_RELEASE
+/readme.html/1.3/Thu Sep 12 12:20:47 2002//TFIREFOX_1_5_0_12_RELEASE
+/xulprefs.mn/1.4/Wed Sep 22 03:03:23 2004//TFIREFOX_1_5_0_12_RELEASE
+/xulsecurity.mn/1.2/Wed Jun 12 18:19:42 2002//TFIREFOX_1_5_0_12_RELEASE
+D

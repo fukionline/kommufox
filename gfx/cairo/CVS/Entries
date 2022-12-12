@@ -1,0 +1,6 @@
+/.cvsignore/1.1/Tue Apr 19 17:19:43 2005//TFIREFOX_1_5_0_12_RELEASE
+/Makefile.in/1.1/Tue Apr 19 17:19:43 2005//TFIREFOX_1_5_0_12_RELEASE
+/README/1.14.4.2/Tue Oct  4 04:10:50 2005//TFIREFOX_1_5_0_12_RELEASE
+/max-font-size.patch/1.1.2.1/Thu Nov 30 02:09:49 2006//TFIREFOX_1_5_0_12_RELEASE
+D/cairo////
+D/libpixman////

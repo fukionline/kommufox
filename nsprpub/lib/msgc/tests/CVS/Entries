@@ -1,0 +1,5 @@
+/.cvsignore/1.2/Sat May 12 06:26:43 2001//TNSPR_4_6_7_RTM
+/Makefile.in/1.12/Mon Nov  8 02:52:55 2004//TNSPR_4_6_7_RTM
+/gc1.c/3.6/Sun Apr 25 15:00:45 2004//TNSPR_4_6_7_RTM
+/thrashgc.c/3.5/Sun Apr 25 15:00:45 2004//TNSPR_4_6_7_RTM
+D

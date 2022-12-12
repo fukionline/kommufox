@@ -1,0 +1,8 @@
+/.cvsignore/1.1/Thu Jan 14 00:42:15 1999//TFIREFOX_1_5_0_12_RELEASE
+/Makefile.in/1.13/Sat Apr 17 18:33:02 2004//TFIREFOX_1_5_0_12_RELEASE
+D/build////
+D/cthandlers////
+D/emitters////
+D/public////
+D/resources////
+D/src////

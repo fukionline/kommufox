@@ -1,0 +1,10 @@
+/.cvsignore/1.5/Tue Mar 23 20:21:44 1999//TFIREFOX_1_5_0_12_RELEASE
+/Makefile.in/1.26/Thu Dec  9 19:28:20 2004//TFIREFOX_1_5_0_12_RELEASE
+D/idl////
+D/loader////
+D/public////
+D/sample////
+D/shell////
+D/src////
+D/tests////
+D/tools////

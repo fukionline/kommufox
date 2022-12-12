@@ -1,0 +1,12 @@
+/.cvsignore/5.1/Tue Mar 26 22:17:48 2002//TFIREFOX_1_5_0_12_RELEASE
+/Makefile.in/5.0.2.1/Fri Apr  5 03:51:34 2002//TFIREFOX_1_5_0_12_RELEASE
+/README.configure/5.0/Tue Mar 26 21:51:40 2002//TFIREFOX_1_5_0_12_RELEASE
+/aclocal.m4/5.0/Tue Mar 26 21:51:40 2002//TFIREFOX_1_5_0_12_RELEASE
+/build.mk/5.0.2.15/Tue Jun 14 21:27:32 2005//TFIREFOX_1_5_0_12_RELEASE
+/component_versions.mk/5.0/Tue Mar 26 21:51:40 2002//TFIREFOX_1_5_0_12_RELEASE
+/configure/5.0.2.33.12.1/Wed Feb 22 23:58:25 2006//TFIREFOX_1_5_0_12_RELEASE
+/configure.in/5.0.2.34.12.1/Wed Feb 22 23:58:25 2006//TFIREFOX_1_5_0_12_RELEASE
+/gmakefile.win/5.0/Tue Mar 26 21:51:42 2002//TFIREFOX_1_5_0_12_RELEASE
+/package.mk/5.0/Tue Mar 26 21:51:43 2002//TFIREFOX_1_5_0_12_RELEASE
+D/config////
+D/ldap////

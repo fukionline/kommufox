@@ -1,0 +1,26 @@
+/.cvsignore/1.1/Tue Jun  8 19:19:57 1999//TFIREFOX_1_5_0_12_RELEASE
+/Makefile.in/1.16/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgFilter.idl/1.25/Wed Jun  1 18:13:12 2005//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgFilterHitNotify.idl/1.6/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgFilterList.idl/1.22/Tue Jul 20 14:48:27 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgFilterPlugin.idl/1.14/Thu Jan 13 20:41:55 2005//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgFilterService.h/1.8/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgFilterService.idl/1.7/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgSearchAdapter.idl/1.14/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgSearchNotify.idl/1.7/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgSearchScopeTerm.idl/1.7/Thu Apr 22 15:32:54 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgSearchSession.idl/1.28/Wed Apr 28 12:48:57 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgSearchTerm.idl/1.13/Tue Jul 20 14:48:27 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgSearchValidityManager.idl/1.5/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgSearchValidityTable.idl/1.7/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsIMsgSearchValue.idl/1.8/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsMsgBodyHandler.h/1.9/Thu Apr 22 15:32:54 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsMsgFilterCore.idl/1.13/Wed Apr 20 14:45:01 2005//TFIREFOX_1_5_0_12_RELEASE
+/nsMsgResultElement.h/1.7/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsMsgSearchAdapter.h/1.34/Tue Dec 14 23:12:31 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsMsgSearchArray.h/1.8/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsMsgSearchBoolExpression.h/1.10/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsMsgSearchCore.idl/1.28/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsMsgSearchScopeTerm.h/1.15/Thu Apr 22 15:32:54 2004//TFIREFOX_1_5_0_12_RELEASE
+/nsMsgSearchTerm.h/1.21/Sat Apr 17 18:32:17 2004//TFIREFOX_1_5_0_12_RELEASE
+D

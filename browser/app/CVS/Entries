@@ -1,0 +1,20 @@
+/.cvsignore/1.2/Sun Mar 30 23:36:45 2003//TFIREFOX_1_5_0_12_RELEASE
+/Makefile.in/1.85.2.5/Wed Sep  7 01:51:58 2005//TFIREFOX_1_5_0_12_RELEASE
+/README.txt/1.1/Mon Aug  9 20:01:04 2004//TFIREFOX_1_5_0_12_RELEASE
+/default.xpm/1.2/Wed Mar 17 21:31:25 2004//TFIREFOX_1_5_0_12_RELEASE
+/document-os2.ico/1.1/Wed May  5 13:38:12 2004/-kb/TFIREFOX_1_5_0_12_RELEASE
+/document.ico/1.2/Tue Mar 16 19:26:55 2004/-kb/TFIREFOX_1_5_0_12_RELEASE
+/document.png/1.2/Thu Jul 15 22:51:15 2004/-kb/TFIREFOX_1_5_0_12_RELEASE
+/firefox-os2.ico/1.1/Wed May  5 13:37:18 2004/-kb/TFIREFOX_1_5_0_12_RELEASE
+/firefox.exe.manifest/1.2/Wed Feb 11 00:57:43 2004//TFIREFOX_1_5_0_12_RELEASE
+/firefox.ico/1.2/Tue Mar 16 19:26:55 2004/-kb/TFIREFOX_1_5_0_12_RELEASE
+/module.ver/1.11.2.4.2.14.2.1/Tue May  1 10:30:39 2007//TFIREFOX_1_5_0_12_RELEASE
+/mozicon128.png/1.1/Sat Jun 18 12:32:47 2005//TFIREFOX_1_5_0_12_RELEASE
+/mozicon16.xpm/1.2/Wed Mar 17 21:31:25 2004//TFIREFOX_1_5_0_12_RELEASE
+/mozicon50.xpm/1.2/Wed Mar 17 21:31:25 2004//TFIREFOX_1_5_0_12_RELEASE
+/mozilla.in/1.12.8.1/Tue Sep 20 21:13:03 2005//TFIREFOX_1_5_0_12_RELEASE
+/nsBrowserApp.cpp/1.31.2.2.4.2/Thu Jan  4 05:44:11 2007//TFIREFOX_1_5_0_12_RELEASE
+/splash.rc/1.36/Tue Feb  1 17:36:47 2005//TFIREFOX_1_5_0_12_RELEASE
+/splashos2.rc/1.9/Tue Mar 15 14:33:10 2005//TFIREFOX_1_5_0_12_RELEASE
+D/macbuild////
+D/profile////
